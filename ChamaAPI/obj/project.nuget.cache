@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l57i6aQ/0pZot9DrTJASm3xqpuOnDrLmwHc8YVhYVwA8gKfQ1PBQjWrXV0xlb3SQCxq2dKpVFxYO1W8O7AMXAA==",
+  "success": true,
+  "projectFilePath": "C:\\Chama\\ChamaAPI\\ChamaAPI\\ChamaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanda e Marcelo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
