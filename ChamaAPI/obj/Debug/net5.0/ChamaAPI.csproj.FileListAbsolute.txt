@@ -1,2 +1,0 @@
-C:\Chama\ChamaAPI\ChamaAPI\obj\Debug\net5.0\ChamaAPI.csprojAssemblyReference.cache
-C:\Chama\ChamaAPI\ChamaAPI\obj\Debug\net5.0\ChamaAPI.GeneratedMSBuildEditorConfig.editorconfig

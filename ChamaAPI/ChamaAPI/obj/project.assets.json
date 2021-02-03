@@ -90,11 +90,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Chama\\ChamaAPI\\ChamaAPI\\ChamaAPI.csproj",
+      "projectUniqueName": "C:\\Chama\\ChamaAPI\\ChamaAPI\\ChamaAPI\\ChamaAPI.csproj",
       "projectName": "ChamaAPI",
-      "projectPath": "C:\\Chama\\ChamaAPI\\ChamaAPI\\ChamaAPI.csproj",
+      "projectPath": "C:\\Chama\\ChamaAPI\\ChamaAPI\\ChamaAPI\\ChamaAPI.csproj",
       "packagesPath": "C:\\Users\\Amanda e Marcelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Chama\\ChamaAPI\\ChamaAPI\\obj\\",
+      "outputPath": "C:\\Chama\\ChamaAPI\\ChamaAPI\\ChamaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
