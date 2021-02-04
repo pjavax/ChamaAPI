@@ -1,0 +1,12 @@
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Chama\ChamaAPI\ChamaAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
